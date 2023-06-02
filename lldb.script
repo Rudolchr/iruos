@@ -1,0 +1,2 @@
+gdb-remote localhost:1234
+b kernel_entry
